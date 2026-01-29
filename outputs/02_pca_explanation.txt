@@ -1,0 +1,19 @@
+
+Principal Component Analysis (PCA) serves multiple critical functions in
+clustering analysis. First, it addresses the curse of dimensionality by
+reducing the feature space while retaining the majority of variance in the
+data. This reduction enhances computational efficiency and mitigates the
+distance concentration problem inherent in high-dimensional spaces, where
+distance metrics become less discriminative.
+
+Second, PCA transforms potentially correlated features into orthogonal
+principal components, eliminating multicollinearity issues that could
+distort clustering results. The transformed features represent uncorrelated
+directions of maximum variance, providing a more robust basis for identifying
+distinct customer segments.
+
+Third, dimensionality reduction improves cluster interpretability by focusing
+on the most informative patterns in the data. By retaining 95.7% of
+the total variance with 10 components (compared to 11 original
+features), we achieve a parsimonious representation that facilitates both
+algorithmic performance and human interpretation of the resulting segments.

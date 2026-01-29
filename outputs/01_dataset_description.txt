@@ -1,0 +1,14 @@
+
+The dataset comprises customer records from a retail banking institution,
+containing 10,000 observations across 12 variables. The dataset
+includes demographic characteristics (age, gender, country), account-related
+features (tenure, balance, number of products), and behavioral indicators
+(credit card ownership, active membership status, estimated salary). 
+Additionally, a binary churn indicator is present, which will be excluded
+from the clustering process to maintain the unsupervised nature of the
+analysis, and will only be utilized in post-clustering interpretation.
+
+The variables encompass both categorical (country, gender, credit_card,
+active_member) and continuous (credit_score, age, tenure, balance,
+products_number, estimated_salary) data types, necessitating appropriate
+preprocessing techniques prior to clustering analysis.

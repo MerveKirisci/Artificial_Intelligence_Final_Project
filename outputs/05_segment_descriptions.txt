@@ -1,0 +1,18 @@
+CLUSTER 0: Standard Segment 0
+================================================================================
+Customers with average characteristics across multiple dimensions.
+        This segment requires standard service levels with opportunities for
+        targeted product recommendations.
+
+CLUSTER 1: Standard Segment 1
+================================================================================
+Customers with average characteristics across multiple dimensions.
+        This segment requires standard service levels with opportunities for
+        targeted product recommendations.
+
+CLUSTER 2: Standard Segment 2
+================================================================================
+Customers with average characteristics across multiple dimensions.
+        This segment requires standard service levels with opportunities for
+        targeted product recommendations.
+

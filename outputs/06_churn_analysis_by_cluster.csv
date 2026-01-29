@@ -1,0 +1,4 @@
+Cluster,Segment_Name,Total_Customers,Churned_Customers,Churn_Rate,Churn_Rate_%
+0,Standard Segment 0,2893,465,0.16073280331835466,16.07%
+1,Standard Segment 1,2477,413,0.1667339523617279,16.67%
+2,Standard Segment 2,4630,1159,0.2503239740820734,25.03%
